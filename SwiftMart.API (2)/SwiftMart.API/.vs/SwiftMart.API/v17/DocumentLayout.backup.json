@@ -1,0 +1,698 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727072756_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250727072756_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727072055_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250727072055_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727044047_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250727044047_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\dtos\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:dtos\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726090932_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250726090932_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726075036_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250726075036_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726071956_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250726071956_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726061633_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250726061633_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726054039_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250726054039_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726053352_AddProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250726053352_AddProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726053059_InitialRebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250726053059_InitialRebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\wwwroot\\images\\3067045c-3770-4cd8-9f9d-f5acd1c53ff5_apple.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:wwwroot\\images\\3067045c-3770-4cd8-9f9d-f5acd1c53ff5_apple.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\wwwroot\\images\\7ed44892-55a2-42e3-ae8f-7b474b071908_apple.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:wwwroot\\images\\7ed44892-55a2-42e3-ae8f-7b474b071908_apple.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|c:\\users\\asus\\source\\repos\\swiftmart.api\\swiftmart.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC961A98-16C0-4CEC-8AA3-0BE5B99B96C5}|SwiftMart.API.csproj|solutionrelative:swiftmart.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250727072756_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727072756_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727072756_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727072756_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250727072756_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:27:56.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250727072055_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727072055_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727072055_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727072055_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250727072055_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:20:55.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:01:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:17:05.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:45:55.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:00:10.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:31:32.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:04:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:14:15.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:31:15.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductResponseDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\ProductResponseDto.cs",
+              "RelativeToolTip": "DTOs\\ProductResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T04:57:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:14:53.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\ProductRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductRequestDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\ProductRequestDto.cs",
+              "RelativeToolTip": "DTOs\\ProductRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:33:28.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Controllers\\SellerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:14:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250727044047_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727044047_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727044047_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250727044047_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250727044047_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T04:40:47.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T04:37:50.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:14:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:18:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:23:04.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:16:47.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\PaymentRequest.cs",
+              "RelativeToolTip": "DTOs\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T04:38:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T04:38:44.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:59:35.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:23:26.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\Review.cs",
+              "RelativeDocumentMoniker": "DTOs\\Review.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\DTOs\\Review.cs",
+              "RelativeToolTip": "DTOs\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:03:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:35:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:23:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Helpers\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:18:44.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:29:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250726090932_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726090932_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726090932_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726090932_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250726090932_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:09:32.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:00:34.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:16:17.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250726075036_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726075036_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726075036_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726075036_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250726075036_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:50:37.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250726071956_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726071956_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726071956_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726071956_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250726071956_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:19:56.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250726061633_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726061633_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726061633_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726061633_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250726061633_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:16:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250726054039_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726054039_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726054039_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726054039_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250726054039_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:40:39.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250726053059_InitialRebuild.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726053059_InitialRebuild.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726053059_InitialRebuild.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726053059_InitialRebuild.cs",
+              "RelativeToolTip": "Migrations\\20250726053059_InitialRebuild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:31:00.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250726053352_AddProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726053352_AddProductsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250726053352_AddProductsTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\Migrations\\20250726053352_AddProductsTable.cs",
+              "RelativeToolTip": "Migrations\\20250726053352_AddProductsTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:33:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T15:15:29.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "7ed44892-55a2-42e3-ae8f-7b474b071908_Apple.jpg -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\wwwroot\\images\\7ed44892-55a2-42e3-ae8f-7b474b071908_Apple.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\7ed44892-55a2-42e3-ae8f-7b474b071908_Apple.jpg",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\wwwroot\\images\\7ed44892-55a2-42e3-ae8f-7b474b071908_Apple.jpg -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\7ed44892-55a2-42e3-ae8f-7b474b071908_Apple.jpg -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-23T16:39:25.493Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "3067045c-3770-4cd8-9f9d-f5acd1c53ff5_Apple.jpg -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\wwwroot\\images\\3067045c-3770-4cd8-9f9d-f5acd1c53ff5_Apple.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\3067045c-3770-4cd8-9f9d-f5acd1c53ff5_Apple.jpg",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\wwwroot\\images\\3067045c-3770-4cd8-9f9d-f5acd1c53ff5_Apple.jpg -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\3067045c-3770-4cd8-9f9d-f5acd1c53ff5_Apple.jpg -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-23T16:39:23.457Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [900x900, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SwiftMart.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\SwiftMart.API.csproj",
+              "RelativeDocumentMoniker": "SwiftMart.API.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\SwiftMart.API\\SwiftMart.API.csproj",
+              "RelativeToolTip": "SwiftMart.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T15:05:00.455Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
